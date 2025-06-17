@@ -1,14 +1,14 @@
-AUTO-REPLY AI CHATBOT 
+# AUTO-REPLY AI CHATBOT 
 
 
-DESCRIPTION:
+## DESCRIPTION:
 
 This project automates the process of interacting with a chat application, specifically 
 designed to analyze chat history and generate humorous responses using OpenAI's 
 GPT-3.5-turbo model. The virtual assistant, named Naruto, is a character that roasts 
 people in a funny way, based on the chat history. 
 
-FEATURES:
+## FEATURES:
 1. Automated Chat Interaction.
 2. Uses pyautogui to perform mouse and keyboard operations, interacting with the 
 chat application without manual intervention.
@@ -22,7 +22,7 @@ responses based on the analyzed chat history.
 8. Utilizes pyperclip to copy and paste text, facilitating the retrieval and insertion of 
 chat messages.
 
-WORKFLOW:
+## WORKFLOW:
 
 
 • Initialization and Setup.
@@ -51,7 +51,7 @@ GPT-3.5-turbo to generate a humorous response.
 • Send Response 
 
 
-LIBRARIES USED:
+## LIBRARIES USED:
 
 
 1. pyautogui: For automating mouse and keyboard interactions. 
